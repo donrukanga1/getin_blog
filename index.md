@@ -3,8 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: GetIN Structure
-permalink: /home/
 ---
 
 The GetIN App utilises modules of the Community Health Worker and Midwife (Facility Health Worker) Module to regiser and track attenantal attendace of young pregnant girls.
